@@ -1,0 +1,6 @@
+#!/bin/bash
+
+SOURCE_DIRECTORY=/root/holbertonschool-shell/basics
+DESTINATION_DIRECTORY=/root/holbertonschool-shell
+
+cp -v $/root/holbertonschool-shell/basic/*.html $/root/holbertonschool-shell
