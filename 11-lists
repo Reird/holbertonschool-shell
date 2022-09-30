@@ -1,5 +1,3 @@
 #!/bin/bash
-ls -a $holbertonschool-shell/basics 
-ls -a $root
-ls -a $boot
+ls -la . .. /boot:
 
