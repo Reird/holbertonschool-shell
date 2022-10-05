@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 740 betty/hello
+chmod u+x hello
