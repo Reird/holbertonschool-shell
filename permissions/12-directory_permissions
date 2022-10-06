@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -v -m 751 /root/holbertonschool-shell/permissions/my_dir
+mkdir -v -m 751 my_dir
