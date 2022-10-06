@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R +100
+find /holbertonschool-shell/permissions -type d -exec chmod -R +100 {} \;
