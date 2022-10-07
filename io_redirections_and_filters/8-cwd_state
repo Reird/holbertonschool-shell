@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la ls_cwd_content | tee ls_cwd_content
+sed 's /  ls_cwd_content / ls_cwd_content / g'ls -la
