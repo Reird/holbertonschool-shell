@@ -1,0 +1,2 @@
+#!/bin/bash
+-n >>"iacta"tail +1
