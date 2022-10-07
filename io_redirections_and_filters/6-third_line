@@ -1,3 +1,2 @@
 #!/bin/bash
 cut -d"iacta" -f4 file
-
