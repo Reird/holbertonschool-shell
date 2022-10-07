@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -d"iacta" -f4 file
+head -3 "iacta"|tail +3
