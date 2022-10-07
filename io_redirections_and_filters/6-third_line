@@ -1,2 +1,3 @@
 #!/bin/bash
-cut -d"iacta" -f3 file
+cut -d"iacta" -f4 file
+
