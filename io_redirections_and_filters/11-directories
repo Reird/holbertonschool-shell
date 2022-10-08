@@ -1,2 +1,2 @@
 #!/bin/bash
--a find . -type d | wc
+find . -type d | wc
